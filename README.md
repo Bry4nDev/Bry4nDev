@@ -19,7 +19,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bry4nDev)
 
 	
-<img width="45%" align="right" src=">https://lanyard.cnrad.dev/api/1039389446744850463?theme=light&bg=B2FF00&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=🆁🅴🅲🆄🅴🆁🅳🅰 🆄🅽🅸🆁🆃🅴 🅰 🅽🆄🅴🆂🆃🆁🅾 🆂🅴🆁🆅🅸🅳🅾🆁 🅳🅴 🅳🅸🆂🅲🅾🆁🅳 🆈 🆂🆄🆂🅲🆁🅸🅱🅸🆁🆃🅴 🅰🅻 🅲🅰🅽🅰🅻 🅳🅴 🆈🅾🆄🆃🆄🅱🅴...">
+<img width="45%" align="right" src=">https://lanyard.cnrad.dev/api/1039389446744850463?theme=light&bg=B2FF00&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=🅿🅾🆁%20🅰%20🅷🅾🆁🅰%20🅽🅾%20H🅰🆈%20🅽🅰🅳🅰...">
 
 <div align="left" width="100%">
 	
